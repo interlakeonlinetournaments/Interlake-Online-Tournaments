@@ -30,7 +30,6 @@ These sign-ups must be manually approved by an admin. These simple member sign-u
 
 
 
-**add explanation of community engagement** 
 
 ### Layout
 
