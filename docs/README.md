@@ -13,7 +13,11 @@
 5. Once the tournament admin has approved your membership, simply login using the information you provided.
 > NOTE: the time it takes an admin to approve your request will depend on your specific tournament and when you sign-up. Most tournaments will have designated time windows for these signups. Contact your tournament director for more information
 
-#### 
+#### Joining your Competition Room
+1. Login to our website.
+2. Hover over  the "debate" OR "speech" tab from the home menu at the top depending on what event you are doing.
+3. A dropdown menu should appear. Select the event that you are doing. This will load in a new page.
+4. Find the room number for your competition (available on Tabroom). Click the "enter room" button directly under your prescribed room number.
 
 ### Debate
 
