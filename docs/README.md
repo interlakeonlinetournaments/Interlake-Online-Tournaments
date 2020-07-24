@@ -1,3 +1,37 @@
+# Support Guide
+
+## Tutorials
+
+### Generic
+
+### Debate
+
+### Speech
+
+## Troubleshooting
+
+### Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Interlake Online Tournaments Tutorial
 
 
