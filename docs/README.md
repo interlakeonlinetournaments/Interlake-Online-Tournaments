@@ -43,7 +43,7 @@
 
 
 
-# Interlake Online Tournaments Tutorial
+# Video Demo Script
 
 
 
