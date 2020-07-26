@@ -31,6 +31,12 @@
 
 ### Speech
 
+#### Pre-Recorded Submissions
+
+Some tournaments may allow for pre-recorded 
+
+
+
 ## Troubleshooting
 
 ### Teams
