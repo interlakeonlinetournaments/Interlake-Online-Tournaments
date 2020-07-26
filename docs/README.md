@@ -15,7 +15,7 @@
 
 #### Joining your Competition Room
 
-> Before you do this, you must be signed into a Microsoft account on your browser. Your judge will see this email when they approve you're request to join the room. Need help? Follow the following directions:
+> Before you do this, you must be signed into a Microsoft account on either your browser or the Teams app (whichever option you'll use to join the meeting). Your judge will see this email when they approve you're request to join the room. Need help? Follow the following directions:
 >> 1. Go to https://www.office.com.
 >> 2. Sign-in with your Microsoft account. For more information on choosing what Microsoft account to use, or making a free one if you don't have one, follow this guide.
 
@@ -23,6 +23,8 @@
 2. Hover over  the "debate" OR "speech" tab from the home menu at the top depending on what event you are doing.
 3. A dropdown menu should appear. Select the event that you are doing. This will load in a new page.
 4. Find the room number for your competition (available on Tabroom). Click the "enter room" button directly under your prescribed room number.
+5. Once in the Teams interface, wait for your judge to let you into the room. If you're judge doesn't let you in, follow this guide.
+> If Teams asks you to input your name, please click the small "sign in" text at the bottom of the page.
 
 ### Debate
 
