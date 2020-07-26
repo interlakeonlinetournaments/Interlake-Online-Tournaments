@@ -11,6 +11,7 @@
 3. Enter the information it asks you to provide. Make sure you do the reCAPTCHA at the bottom so we can verify that you are not a robot.
 4. Press the "Sign Up" button. Your registration proccess is now complete.  A tournament admin will approve your request shortly. 
 5. Once the tournament admin has approved your membership, simply login using the information you provided.
+
 > NOTE: the time it takes an admin to approve your request will depend on your specific tournament and when you sign-up. Most tournaments will have designated time windows for these signups. Contact your tournament director for more information
 
 #### Joining your Competition Room
