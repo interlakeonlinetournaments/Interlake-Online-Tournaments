@@ -14,6 +14,11 @@
 > NOTE: the time it takes an admin to approve your request will depend on your specific tournament and when you sign-up. Most tournaments will have designated time windows for these signups. Contact your tournament director for more information
 
 #### Joining your Competition Room
+
+> Before you do this, you must be signed into a Microsoft account on your browser. Your judge will see this email when they approve you're request to join the room. Need help? Follow the following directions:
+>> 1. Go to https://www.office.com.
+>> 2. Sign-in with your Microsoft account. For more information on choosing what Microsoft account to use, or making a free one if you don't have one, follow this guide.
+
 1. Login to our website.
 2. Hover over  the "debate" OR "speech" tab from the home menu at the top depending on what event you are doing.
 3. A dropdown menu should appear. Select the event that you are doing. This will load in a new page.
