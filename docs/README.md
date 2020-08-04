@@ -33,9 +33,18 @@
 
 #### Pre-Recorded Submissions
 
-Some tournaments may allow for pre-recorded 
+Some tournaments may allow for pre-recorded speech submissions for select events. Make sure you strictly follow the instructions provided. Systems are in place to limit the amount of time competitors have to record these speeches; evading these limits constitutes cheating. Recordings must be re-done for each tournament.
 
 
+1. Open the "Speech Video Submissions" page under the "Speech" tab. Make sure that you are logged into the website with your member account, failure to do so may result in disqualification. Let the page completely load before you continue.
+2. Select your speech event from the dropdown menu. Note that you can only pre-record one speech at a time (if you have multiple entries, do this proccess with one entry, then refresh your page and repeat with your second entry).
+3. Open a new tab and conduct an internet speed test (this can be done via a simple Google search). Provide your approxiamte download and upload speeds.
+4. Once you are ready to start recording your speech, click the "Generate My Code" button.
+5. Record your speech. Make sure you say your name, school, event, date of recording and code at BOTH the start and end of your speech. (ex: I'm John Doe from Interlake High School. This is my Humorous Interp speech, recorded on Saturday, Sept 21st at 9:43 AM. My code is 10JF8A)
+6. Once you are done recording your speech, click the "Ready to Submit" button. A "Click to Upload" button should appear.
+7. Click on the upload button. This should open a Dropbox file request. Upload your video file here.
+
+> **IMPORTANT NOTE** - the Dropbox file request has a deadline to prevent cheating. This deadline is calculated based on your internet speed and will be displayed to you when you generate your code. The upload must be COMPLETE by the time this deadline passes, or else your speech upload will not go through. This means that, barring any technical difficulties, you CANNOT record your speech more than two times. (this prevents students from having an infinite amount of time to prepare recordings).
 
 ## Troubleshooting
 
