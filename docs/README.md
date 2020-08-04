@@ -14,6 +14,12 @@
 
 > NOTE: the time it takes an admin to approve your request will depend on your specific tournament and when you sign-up. Most tournaments will have designated time windows for these signups. Contact your tournament director for more information
 
+#### Meeting Etiquette
+If it possible, adhere to following guidelines:
+* Judges and competitors should always have their video on.
+* During a speech, the person giving the speech should have their mic on -- everyone else should be muted.
+* During cross-examination periods, competitors who have to answer or ask questions should have their mic on -- everyone else should be muted.
+
 #### Joining your Competition Room
 
 > Before you do this, you must be signed into a Microsoft account on either your browser or the Teams app (whichever option you'll use to join the meeting). Your judge will see this email when they approve you're request to join the room. Need help? Follow the following directions:
@@ -48,19 +54,6 @@ Some tournaments may allow for pre-recorded speech submissions for select events
 ## Troubleshooting
 
 ### Teams
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
