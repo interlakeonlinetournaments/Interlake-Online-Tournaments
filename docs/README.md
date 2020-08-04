@@ -24,7 +24,7 @@
 2. Hover over  the "debate" OR "speech" tab from the home menu at the top depending on what event you are doing.
 3. A dropdown menu should appear. Select the event that you are doing. This will load in a new page.
 4. Find the room number for your competition (available on Tabroom). Click the "enter room" button directly under your prescribed room number.
-5. Once in the Teams interface, wait for your judge to let you into the room. If you're judge doesn't let you in, follow this guide.
+5. Once in the Teams interface, wait for your judge to let you into the room. If you're judge doesn't let you in, follow this guide.  
 > If Teams asks you to input your name, please click the small "sign in" text at the bottom of the page.
 
 ### Debate
@@ -34,7 +34,6 @@
 #### Pre-Recorded Submissions
 
 Some tournaments may allow for pre-recorded speech submissions for select events. Make sure you strictly follow the instructions provided. Systems are in place to limit the amount of time competitors have to record these speeches; evading these limits constitutes cheating. Recordings must be re-done for each tournament.
-
 
 1. Open the "Speech Video Submissions" page under the "Speech" tab. Make sure that you are logged into the website with your member account, failure to do so may result in disqualification. Let the page completely load before you continue.
 2. Select your speech event from the dropdown menu. Note that you can only pre-record one speech at a time (if you have multiple entries, do this proccess with one entry, then refresh your page and repeat with your second entry).
